@@ -1,0 +1,24 @@
+
+/* 开启中心布局 */
+.press-center{
+    display: flex;
+}
+.press-footer-left ul li:nth-child(n+2){
+    margin-top: 10px;
+}
+/* 右侧图片大小 */
+.press-footer-right img{
+    width: 570px;
+    height: 300px;
+}
+/* 底部 */
+.press-footer img{
+    padding-top: 30px;
+    width: 1150px;
+    height: 170px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}

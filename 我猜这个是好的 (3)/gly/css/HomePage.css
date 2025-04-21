@@ -1,0 +1,86 @@
+
+
+.content-header {
+    margin-bottom: 20px;
+}
+
+.content-header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.stat-item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+}
+
+.stat-item h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.stat-item p {
+    margin: 10px 0 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.content-body {
+    margin-top: 20px;
+}
+
+.quick-access {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.quick-access-item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+}
+
+.quick-access-item a {
+    text-decoration: none;
+    color: #007bff;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.charts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.chart-item {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1;
+    margin: 0 10px;
+}
+
+.chart-item h3 {
+    margin: 0 0 20px;
+    font-size: 16px;
+    color: #333;
+}

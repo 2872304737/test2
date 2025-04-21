@@ -1,0 +1,87 @@
+﻿body {
+
+    font-family: Arial, sans-serif;
+}
+
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-right: 1px solid #dee2e6;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 添加外扩散黑色淡描边 */
+}
+
+    .sidebar h2 {
+        margin-bottom: 20px;
+    }
+
+    .sidebar .nav-link {
+        color: #333;
+        padding: 10px 0;
+        border-bottom: 1px solid #e0e0e0; /* 添加淡灰色分隔线 */
+        cursor: pointer;
+    }
+
+.table thead th {
+    background-color: #f0f0f0; /* 灰色背景 */
+    color: black; /* 黑色文字 */
+    padding: 10px; /* 内边距 */
+}
+
+.sidebar .nav-link:hover {
+    background-color: #e9ecef;
+    color: #007bff;
+}
+
+.content {
+    margin-left: 50px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 添加外扩散黑色淡描边 */
+}
+
+    .content h2 {
+        margin-bottom: 20px;
+    }
+
+.content-section {
+    display: none;
+}
+
+    .content-section h3 {
+        margin-bottom: 10px;
+    }
+
+.form-label {
+    font-weight: bold;
+}
+
+.btn-link {
+    padding-left: 0;
+}
+
+.table-container {
+    margin-top: 20px;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.table thead th {
+    background-color: #f8f9fa;
+}
+
+.loginform {
+    display: none;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.ms-2 {
+    margin-left: 8px;
+}

@@ -1,0 +1,88 @@
+.content-header {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+
+.add-announcement {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.add-announcement:hover {
+    background-color: #0056b3;
+}
+
+.content-body {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; /* 确保内容部分占满页面 */
+    overflow: hidden; /* 禁用滚动条 */
+}
+
+.announcement-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.announcement-table th, .announcement-table td {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    text-align: center;
+}
+
+.announcement-table th {
+    background-color: #f8f9fa;
+}
+
+.edit-button, .delete-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: button;
+}
+
+.edit-button {
+    background-color: #ffc107;
+    color: #fff;
+}
+
+.edit-button:hover {
+    background-color: #e0a800;
+}
+
+.delete-button {
+    background-color: #dc3545;
+    color: #fff;
+    margin-left: 5px;
+}
+
+.delete-button:hover {
+    background-color: #c82333;
+}
+
+.pagination {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination button, .pagination select {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.pagination button:hover, .pagination select:hover {
+    background-color: #e9ecef;
+}

@@ -1,0 +1,79 @@
+.content-header {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.content-header select {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
+
+.content-body {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; /* 确保内容部分占满页面 */
+    overflow: hidden; /* 禁用滚动条 */
+}
+
+/* 确保表格样式完整 */
+.order-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.order-table th, .order-table td {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    text-align: center;
+}
+
+.order-table th {
+    background-color: #f8f9fa;
+}
+
+/* 确保分页样式完整 */
+.pagination {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination button, .pagination select {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.pagination button:hover, .pagination select:hover {
+    background-color: #e9ecef;
+}
+
+.edit-button, .delete-button {
+    width: 52px;
+    height: 34px;
+    color: white;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.edit-button {
+    background-color: #ffc107;
+}
+
+.delete-button {
+    background-color: #dc3545;
+}

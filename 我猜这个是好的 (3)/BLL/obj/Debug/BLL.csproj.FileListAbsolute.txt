@@ -1,0 +1,132 @@
+D:\Desk\项目文件夹\BLL\bin\Debug\BLL.dll
+D:\Desk\项目文件夹\BLL\bin\Debug\BLL.pdb
+D:\Desk\项目文件夹\BLL\bin\Debug\DAL.dll
+D:\Desk\项目文件夹\BLL\bin\Debug\DAL.pdb
+D:\Desk\项目文件夹\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desk\项目文件夹\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desk\项目文件夹\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desk\项目文件夹\BLL\obj\Debug\BLL.dll
+D:\Desk\项目文件夹\BLL\obj\Debug\BLL.pdb
+D:\Desk\项目文件夹\BLL\bin\Debug\Modle.dll
+D:\Desk\项目文件夹\BLL\bin\Debug\Modle.pdb
+D:\Desk\项目\BLL\bin\Debug\BLL.dll
+D:\Desk\项目\BLL\bin\Debug\BLL.pdb
+D:\Desk\项目\BLL\bin\Debug\DAL.dll
+D:\Desk\项目\BLL\bin\Debug\Modle.dll
+D:\Desk\项目\BLL\bin\Debug\DAL.pdb
+D:\Desk\项目\BLL\bin\Debug\Modle.pdb
+D:\Desk\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desk\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desk\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desk\项目\BLL\obj\Debug\BLL.dll
+D:\Desk\项目\BLL\obj\Debug\BLL.pdb
+C:\Users\123\Desktop\5\项目\BLL\bin\Debug\BLL.dll
+C:\Users\123\Desktop\5\项目\BLL\bin\Debug\BLL.pdb
+C:\Users\123\Desktop\5\项目\BLL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\5\项目\BLL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\5\项目\BLL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\5\项目\BLL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\5\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\5\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\5\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\123\Desktop\5\项目\BLL\obj\Debug\BLL.dll
+C:\Users\123\Desktop\5\项目\BLL\obj\Debug\BLL.pdb
+D:\Desk\项目v\项目\BLL\bin\Debug\BLL.dll
+D:\Desk\项目v\项目\BLL\bin\Debug\BLL.pdb
+D:\Desk\项目v\项目\BLL\bin\Debug\DAL.dll
+D:\Desk\项目v\项目\BLL\bin\Debug\Modle.dll
+D:\Desk\项目v\项目\BLL\bin\Debug\DAL.pdb
+D:\Desk\项目v\项目\BLL\bin\Debug\Modle.pdb
+D:\Desk\项目v\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desk\项目v\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desk\项目v\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desk\项目v\项目\BLL\obj\Debug\BLL.dll
+D:\Desk\项目v\项目\BLL\obj\Debug\BLL.pdb
+C:\Users\123\Desktop\6\项目\BLL\bin\Debug\BLL.dll
+C:\Users\123\Desktop\6\项目\BLL\bin\Debug\BLL.pdb
+C:\Users\123\Desktop\6\项目\BLL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\6\项目\BLL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\6\项目\BLL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\6\项目\BLL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\6\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\6\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\6\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\123\Desktop\6\项目\BLL\obj\Debug\BLL.dll
+C:\Users\123\Desktop\6\项目\BLL\obj\Debug\BLL.pdb
+D:\Desk\项目vvv\项目\BLL\bin\Debug\BLL.dll
+D:\Desk\项目vvv\项目\BLL\bin\Debug\BLL.pdb
+D:\Desk\项目vvv\项目\BLL\bin\Debug\DAL.dll
+D:\Desk\项目vvv\项目\BLL\bin\Debug\Modle.dll
+D:\Desk\项目vvv\项目\BLL\bin\Debug\DAL.pdb
+D:\Desk\项目vvv\项目\BLL\bin\Debug\Modle.pdb
+D:\Desk\项目vvv\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desk\项目vvv\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desk\项目vvv\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desk\项目vvv\项目\BLL\obj\Debug\BLL.dll
+D:\Desk\项目vvv\项目\BLL\obj\Debug\BLL.pdb
+D:\Desk\项目\项目vvv\项目\BLL\bin\Debug\BLL.dll
+D:\Desk\项目\项目vvv\项目\BLL\bin\Debug\BLL.pdb
+D:\Desk\项目\项目vvv\项目\BLL\bin\Debug\DAL.dll
+D:\Desk\项目\项目vvv\项目\BLL\bin\Debug\Modle.dll
+D:\Desk\项目\项目vvv\项目\BLL\bin\Debug\DAL.pdb
+D:\Desk\项目\项目vvv\项目\BLL\bin\Debug\Modle.pdb
+D:\Desk\项目\项目vvv\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desk\项目\项目vvv\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desk\项目\项目vvv\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desk\项目\项目vvv\项目\BLL\obj\Debug\BLL.dll
+D:\Desk\项目\项目vvv\项目\BLL\obj\Debug\BLL.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\bin\Debug\BLL.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\bin\Debug\BLL.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\obj\Debug\BLL.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\BLL\obj\Debug\BLL.pdb
+D:\Desk\e诊云窗\项目vvv\项目\BLL\bin\Debug\BLL.dll
+D:\Desk\e诊云窗\项目vvv\项目\BLL\bin\Debug\BLL.pdb
+D:\Desk\e诊云窗\项目vvv\项目\BLL\bin\Debug\DAL.dll
+D:\Desk\e诊云窗\项目vvv\项目\BLL\bin\Debug\Modle.dll
+D:\Desk\e诊云窗\项目vvv\项目\BLL\bin\Debug\DAL.pdb
+D:\Desk\e诊云窗\项目vvv\项目\BLL\bin\Debug\Modle.pdb
+D:\Desk\e诊云窗\项目vvv\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Desk\e诊云窗\项目vvv\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Desk\e诊云窗\项目vvv\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Desk\e诊云窗\项目vvv\项目\BLL\obj\Debug\BLL.dll
+D:\Desk\e诊云窗\项目vvv\项目\BLL\obj\Debug\BLL.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\bin\Debug\BLL.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\bin\Debug\BLL.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\obj\Debug\BLL.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\BLL\obj\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\bin\Debug\BLL.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\bin\Debug\BLL.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\bin\Debug\Modle.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\bin\Debug\Modle.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\obj\Debug\BLL.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\BLL\obj\Debug\BLL.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\bin\Debug\BLL.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\bin\Debug\BLL.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\bin\Debug\DAL.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\bin\Debug\Modle.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\bin\Debug\DAL.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\bin\Debug\Modle.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\obj\Debug\BLL.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\BLL\obj\Debug\BLL.pdb

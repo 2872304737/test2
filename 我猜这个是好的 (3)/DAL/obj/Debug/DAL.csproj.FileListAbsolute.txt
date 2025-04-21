@@ -1,0 +1,108 @@
+D:\Desk\项目文件夹\DAL\bin\Debug\DAL.dll
+D:\Desk\项目文件夹\DAL\bin\Debug\DAL.pdb
+D:\Desk\项目文件夹\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desk\项目文件夹\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desk\项目文件夹\DAL\obj\Debug\DAL.dll
+D:\Desk\项目文件夹\DAL\obj\Debug\DAL.pdb
+D:\Desk\项目文件夹\DAL\bin\Debug\Modle.dll
+D:\Desk\项目文件夹\DAL\bin\Debug\Modle.pdb
+D:\Desk\项目文件夹\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Desk\项目\DAL\bin\Debug\DAL.dll
+D:\Desk\项目\DAL\bin\Debug\DAL.pdb
+D:\Desk\项目\DAL\bin\Debug\Modle.dll
+D:\Desk\项目\DAL\bin\Debug\Modle.pdb
+D:\Desk\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desk\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desk\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Desk\项目\DAL\obj\Debug\DAL.dll
+D:\Desk\项目\DAL\obj\Debug\DAL.pdb
+C:\Users\123\Desktop\5\项目\DAL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\5\项目\DAL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\5\项目\DAL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\5\项目\DAL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\5\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\5\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\5\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\123\Desktop\5\项目\DAL\obj\Debug\DAL.dll
+C:\Users\123\Desktop\5\项目\DAL\obj\Debug\DAL.pdb
+D:\Desk\项目v\项目\DAL\bin\Debug\DAL.dll
+D:\Desk\项目v\项目\DAL\bin\Debug\DAL.pdb
+D:\Desk\项目v\项目\DAL\bin\Debug\Modle.dll
+D:\Desk\项目v\项目\DAL\bin\Debug\Modle.pdb
+D:\Desk\项目v\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desk\项目v\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desk\项目v\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Desk\项目v\项目\DAL\obj\Debug\DAL.dll
+D:\Desk\项目v\项目\DAL\obj\Debug\DAL.pdb
+C:\Users\123\Desktop\6\项目\DAL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\6\项目\DAL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\6\项目\DAL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\6\项目\DAL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\6\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\6\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\6\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\123\Desktop\6\项目\DAL\obj\Debug\DAL.dll
+C:\Users\123\Desktop\6\项目\DAL\obj\Debug\DAL.pdb
+D:\Desk\项目vvv\项目\DAL\bin\Debug\DAL.dll
+D:\Desk\项目vvv\项目\DAL\bin\Debug\DAL.pdb
+D:\Desk\项目vvv\项目\DAL\bin\Debug\Modle.dll
+D:\Desk\项目vvv\项目\DAL\bin\Debug\Modle.pdb
+D:\Desk\项目vvv\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desk\项目vvv\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desk\项目vvv\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Desk\项目vvv\项目\DAL\obj\Debug\DAL.dll
+D:\Desk\项目vvv\项目\DAL\obj\Debug\DAL.pdb
+D:\Desk\项目\项目vvv\项目\DAL\bin\Debug\DAL.dll
+D:\Desk\项目\项目vvv\项目\DAL\bin\Debug\DAL.pdb
+D:\Desk\项目\项目vvv\项目\DAL\bin\Debug\Modle.dll
+D:\Desk\项目\项目vvv\项目\DAL\bin\Debug\Modle.pdb
+D:\Desk\项目\项目vvv\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desk\项目\项目vvv\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desk\项目\项目vvv\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Desk\项目\项目vvv\项目\DAL\obj\Debug\DAL.dll
+D:\Desk\项目\项目vvv\项目\DAL\obj\Debug\DAL.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\obj\Debug\DAL.dll
+C:\Users\123\Desktop\他说写完了\项目vvv\项目\DAL\obj\Debug\DAL.pdb
+D:\Desk\e诊云窗\项目vvv\项目\DAL\bin\Debug\DAL.dll
+D:\Desk\e诊云窗\项目vvv\项目\DAL\bin\Debug\DAL.pdb
+D:\Desk\e诊云窗\项目vvv\项目\DAL\bin\Debug\Modle.dll
+D:\Desk\e诊云窗\项目vvv\项目\DAL\bin\Debug\Modle.pdb
+D:\Desk\e诊云窗\项目vvv\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Desk\e诊云窗\项目vvv\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Desk\e诊云窗\项目vvv\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Desk\e诊云窗\项目vvv\项目\DAL\obj\Debug\DAL.dll
+D:\Desk\e诊云窗\项目vvv\项目\DAL\obj\Debug\DAL.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\bin\Debug\DAL.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\bin\Debug\DAL.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\bin\Debug\Modle.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\bin\Debug\Modle.pdb
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\obj\Debug\DAL.dll
+C:\Users\123\Desktop\新建文件夹 (6)\项目\DAL\obj\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\bin\Debug\DAL.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\bin\Debug\DAL.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\bin\Debug\Modle.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\bin\Debug\Modle.pdb
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\obj\Debug\DAL.dll
+C:\Users\lenovo\Desktop\我猜这个是好的\DAL\obj\Debug\DAL.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\bin\Debug\DAL.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\bin\Debug\DAL.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\bin\Debug\Modle.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\bin\Debug\Modle.pdb
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\obj\Debug\DAL.dll
+E:\大二项目\新建文件夹 (3)\我猜这个是好的 (3)\DAL\obj\Debug\DAL.pdb

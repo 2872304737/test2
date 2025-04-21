@@ -1,0 +1,149 @@
+/* 中心导航栏 */
+.news-nav{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.news-nav nav{
+    line-height: 50px;
+}
+.news-btn{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #048a7a;
+}
+/* 中心模版区域 */
+.news-context{
+    display: flex;
+    justify-content: space-between;
+}
+.news-context .news-left{
+    width: 200px;
+    height: 500px;
+}
+.tab-content{
+    width: 754px;
+    height: 500px;
+}
+.list-group-item.active{
+    background-color: #048a7a;
+    border-color: #048a7a;
+    color: #fff;
+}
+
+#list-profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: relative;
+}
+
+.centered-content {
+    width: 50%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#newscontext{
+    margin-left: 200px;
+}
+
+/* 表头样式 */
+.table thead th {
+    background-color: #048a7a;
+    color: white;
+}
+
+/* 科室选择样式 */
+.department-list {
+    margin-top: 20px;
+}
+.department-list .list-group-item {
+    cursor: pointer;
+}
+.sub-department-list {
+    margin-top: 20px;
+    display: none;
+}
+
+/* 医生选择样式 */
+.doctor-list {
+    margin-top: 20px;
+}
+.doctor-item {
+    display: flex;
+    margin-bottom: 20px;
+}
+.doctor-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.doctor-info {
+    flex: 1;
+}
+.doctor-info h4 {
+    margin: 0;
+}
+.doctor-info p {
+    margin: 5px 0;
+}
+#doctorList{
+    overflow-y: auto;
+    box-sizing: border-box;/* 设置一个最大高度，以确保在内容过多时出现滚动条 */
+max-height:300px;/* 减去一些高度以考虑侧边栏和内边距等 */
+}
+
+
+/* 预约信息样式 */
+.appointment-info {
+    margin-bottom: 20px;
+}
+.appointment-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 5px 0;
+}
+.appointment-item span {
+    flex: 1;
+}
+.appointment-item button {
+    margin-left: 10px;
+}
+
+/* 医生信息卡片样式 */
+.doctor-info-card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.doctor-avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.doctor-details {
+    flex: 1;
+}
+.doctor-details h3 {
+    margin: 0;
+}
+/* 背景 */
+.selected-department {
+    background-color: #d1ecf1;
+}
+.selected-appointment {
+    background-color: gainsboro;
+}
+
+.footer{
+    margin-top: 100px;
+}

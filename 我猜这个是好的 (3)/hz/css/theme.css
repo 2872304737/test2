@@ -1,0 +1,7 @@
+/* 主题样式表 */
+:root{
+    --primary-color: #0ad960;
+}
+.color-primary {
+    color: var(--primary-color);
+  }

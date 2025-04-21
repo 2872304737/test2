@@ -1,0 +1,112 @@
+
+.content-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.content-header input[type="text"] {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    width: 200px;
+}
+
+.search-button, .reset-button, .add-doctor {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.search-button {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.search-button:hover {
+    background-color: #0056b3;
+}
+
+.reset-button {
+    background-color: #6c757d;
+    color: #fff;
+}
+
+.reset-button:hover {
+    background-color: #5a6268;
+}
+
+.add-doctor {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.add-doctor:hover {
+    background-color: #218838;
+}
+
+.content-body {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex-grow: 1; /* 确保内容部分占满页面 */
+    overflow: hidden; /* 禁用滚动条 */
+}
+
+.doctor-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.doctor-table th, .doctor-table td {
+    padding: 10px;
+    border: 1px solid #dee2e6;
+    text-align: center;
+}
+
+.doctor-table th {
+    background-color: #f8f9fa;
+}
+
+.doctor-table td img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.edit-button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: #ffc107;
+    color: #fff;
+}
+
+.edit-button:hover {
+    background-color: #e0a800;
+}
+
+.pagination {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.pagination button, .pagination select {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+.pagination button:hover, .pagination select:hover {
+    background-color: #e9ecef;
+}

@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="geren.aspx.cs" Inherits="hz.geren" EnableSessionState="True" %>
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="geren.aspx.cs" Inherits="hz.geren" EnableSessionState="True" %>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>账号登录</title>
+    <title>账号登录1111111111111</title>
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/news.css">
     <!-- 公共样式表 -->
